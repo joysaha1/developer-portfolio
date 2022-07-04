@@ -1,0 +1,42 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+
+h1 {
+    font-size: 50px;
+
+}
+
+#joy {
+    color: darkorange;
+}
+
+section {
+    display: flex
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 2%;
+
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: rgb(223, 220, 50);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: black;
+    background-image: linear-gradient(rgb(35, 236, 17) rgb(165, 132, 42));
+    font-weight: 700;
+}
+
+.top-banner {
+    background-image: url(/images/top-banner.png);
+    background-repeat: no-repeat;
+}
